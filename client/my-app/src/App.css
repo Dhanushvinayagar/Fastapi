@@ -1,0 +1,9 @@
+.App {
+  color: aqua;
+}
+
+.tabs {
+  display: flex;
+  margin: 10px;
+  gap: 10px;
+}
